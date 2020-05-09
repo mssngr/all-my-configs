@@ -1,0 +1,34 @@
+# oh-my-zsh
+robbyrussell/oh-my-zsh path:plugins/autojump
+robbyrussell/oh-my-zsh path:plugins/aws
+robbyrussell/oh-my-zsh path:plugins/command-not-found
+robbyrussell/oh-my-zsh path:plugins/copybuffer
+robbyrussell/oh-my-zsh path:plugins/copydir
+robbyrussell/oh-my-zsh path:plugins/copyfile
+robbyrussell/oh-my-zsh path:plugins/docker
+robbyrussell/oh-my-zsh path:plugins/docker-compose
+robbyrussell/oh-my-zsh path:plugins/fzf
+robbyrussell/oh-my-zsh path:plugins/git
+robbyrussell/oh-my-zsh path:plugins/jsontools
+robbyrussell/oh-my-zsh path:plugins/npm
+robbyrussell/oh-my-zsh path:plugins/sudo
+robbyrussell/oh-my-zsh path:plugins/urltools
+robbyrussell/oh-my-zsh path:plugins/yarn
+robbyrussell/oh-my-zsh path:plugins/z
+robbyrussell/oh-my-zsh path:plugins/zsh-interactive-cd
+
+# zsh_users
+zsh-users/zsh-history-substring-search
+zsh-users/zsh-autosuggestions
+
+# other
+arzzen/calc.plugin.zsh
+djui/alias-tips
+wfxr/forgit
+changyuheng/fz
+hschne/fzf-git
+vmattos/kill-node
+zdharma/fast-syntax-highlighting
+
+# theme
+dracula/zsh

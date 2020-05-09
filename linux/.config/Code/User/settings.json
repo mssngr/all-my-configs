@@ -1,0 +1,32 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Dracula",
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "window.restoreFullscreen": true,
+    "editor.fontFamily": "'Hasklig', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.minimap.enabled": false,
+    "eslint.format.enable": true,
+    "eslint.lintTask.enable": true,
+    "eslint.packageManager": "yarn",
+    "eslint.run": "onSave",
+    "editor.scrollBeyondLastLine": false,
+    "eslint.alwaysShowStatus": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.tabSize": 2,
+    "editor.occurrencesHighlight": false,
+    "editor.renderLineHighlight": "gutter",
+    "editor.matchBrackets": "near",
+    "editor.multiCursorModifier": "ctrlCmd"
+}
