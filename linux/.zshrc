@@ -23,5 +23,5 @@ alias pbpaste='xclip -selection clipboard -o'
 # functions
 function chpwd() {
   emulate -L zsh
-  exa -1
+  exa
 }
